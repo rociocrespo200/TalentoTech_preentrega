@@ -1,4 +1,3 @@
-# TalentoTech_preentrega
 # 🛠️ Preentrega Proyecto Java - Talento Tech
 
 Este proyecto corresponde a la **preentrega** del curso de Java de **Talento Tech**. El objetivo es demostrar el progreso en el desarrollo del sistema que servirá como base para el **Trabajo Final Integrador (TFI)**.
