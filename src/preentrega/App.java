@@ -297,7 +297,9 @@ Scanner sc = new Scanner(System.in);
 	private static Integer pedirNumero(Scanner sc) {
 	    while (true) {
 	        try {
-	            return Integer.parseInt(sc.nextLine());
+	        	Integer numero = Integer.parseInt(sc.nextLine());
+	        	if(numero >= 0) return numero;
+	        	else throw new NumberFormatException();
 	        } catch (NumberFormatException e) {
 	            msj("rojo", "INGRESE UN NUMERO VALIDO");
 	        }
