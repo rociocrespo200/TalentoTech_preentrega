@@ -1,8 +1,15 @@
-package preentrega;
+package com.techlab.aplicacion;
 
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.Scanner;
+
+import com.techlab.entidades.Articulo;
+import com.techlab.entidades.Categoria;
+import com.techlab.entidades.Pedido;
+import com.techlab.entidades.Pedido_articulo;
+import com.techlab.excepciones.ProductoSinStockException;
+import com.techlab.excepciones.StockInsuficienteException;
 
 public class App {
 

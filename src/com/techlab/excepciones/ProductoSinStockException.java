@@ -1,4 +1,4 @@
-package preentrega;
+package com.techlab.excepciones;
 
 public class ProductoSinStockException extends Exception {
 

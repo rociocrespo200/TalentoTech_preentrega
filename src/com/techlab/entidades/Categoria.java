@@ -1,4 +1,4 @@
-package preentrega;
+package com.techlab.entidades;
 
 public class Categoria {
 	private Integer id;

@@ -1,4 +1,4 @@
-package preentrega;
+package com.techlab.excepciones;
 
 public class StockInsuficienteException extends Exception{
 

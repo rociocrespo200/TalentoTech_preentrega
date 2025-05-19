@@ -1,4 +1,4 @@
-package preentrega;
+package com.techlab.entidades;
 import java.text.NumberFormat;
 import java.time.LocalDateTime;
 import java.util.ArrayList;
